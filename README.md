@@ -1,4 +1,4 @@
-# ApplicationsForML
+# Applications For ML - Final Project
 This repository contains the final project of the course "Applications For ML", which is an image caption generator.
 
 The architecture follows the encoder-decoder scheme -
