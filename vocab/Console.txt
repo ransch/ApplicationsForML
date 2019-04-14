@@ -1,0 +1,9 @@
+loading annotations into memory...
+Done (t=0.78s)
+creating index...
+index created!
+100%|██████████| 118287/118287 [30:27<00:00, 64.74it/s]Vocabulary length: 27551
+100%|█████████▉| 118280/118287 [30:34<00:00, 58.07it/s]Max caption length: 50
+100%|██████████| 118287/118287 [30:34<00:00, 53.92it/s]
+27551it [00:00, 2124448.83it/s]
+Done!
